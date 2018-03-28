@@ -1,0 +1,11 @@
+{
+  "name": "test-prettier",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "1.11.1",
+    "prettier-plugin-java": "0.0.4"
+  }
+}
